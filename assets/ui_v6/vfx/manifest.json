@@ -1,0 +1,14 @@
+{
+  "array_rear": {
+    "source": "outputs\\meow-ui-v6\\array_rear\\job_3336e68c17264f2595c72a831a9014be\\result_images_0_url.png",
+    "operation": "black-to-alpha unpremultiply; original Meowa generated filaments retained"
+  },
+  "array_ground": {
+    "source": "outputs\\meow-ui-v6\\array_ground\\One_isolated_xianxia_magic_array_seen_directly_from_above_perfectly_round_concentric_golden_rings_eight_outer_dc511c78\\result_images_0_url.png",
+    "operation": "black-to-alpha unpremultiply; original Meowa generated filaments retained"
+  },
+  "beam": {
+    "source": "outputs\\meow-ui-v6\\beam\\One_isolated_vertical_golden_spiritual_eruption_bright_narrow_central_ivory_beam_swirling_gold_filaments_spira_f5303734\\result_images_0_url.png",
+    "operation": "black-to-alpha unpremultiply; original Meowa generated filaments retained"
+  }
+}

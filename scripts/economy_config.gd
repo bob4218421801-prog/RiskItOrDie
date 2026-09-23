@@ -1,0 +1,55 @@
+extends RefCounted
+## Long-form economy tuning; no currency or odds constants in view scripts.
+const TICKETS := {"flying_boat": 5, "sword_race": 10, "mines": 20}
+const NAMES := {"flying_boat":"飛升靈舟", "sword_race":"飛劍競速", "mines":"靈礦探寶"}
+const ENTRY_COST := 100
+const ENTRY_COSTS = {"flying_boat":100,"sword_race":100,"mines":100}
+const PAID_BOAT_BASE := 22
+const RACE_NAMES := ["青霜", "赤炎", "流云", "惊雷", "断峰"]
+const RACE_WEIGHTS := [0.40, 0.27, 0.17, 0.10, 0.06]
+const RACE_PAYOUT := [2.4, 3.1, 1.8, 4.2, 8.0]
+const RACE_SECONDS := 3.2
+const MINES_SIZE := 25
+const MINES_DANGERS := 5
+const MINES_RETURN := 0.82
+const RAW_NAMES := ["下品原石", "中品原石", "上品原石", "天璞奇石"]
+const RAW_WEIGHTS := [0.60, 0.28, 0.10, 0.02]
+const RAW_DROP_CHANCE := 0.65
+const ARRAY_COST := 100
+const ARRAY_ATTEMPTS := 10
+const ARRAY_BONUS := 1.20
+const MATERIAL_NAMES := ["青靈髓", "赤元砂", "紫脈晶", "金丹玉髓", "天元晶心"]
+const MATERIAL_WEIGHTS := [[.70,.25,.049,.001,0.0],[.53,.32,.135,.014,.001],[.34,.34,.26,.055,.005],[.23,.30,.33,.12,.02]]
+const STONE_FAIL := [.025,.16,.34]
+const STONE_FRAGMENTS := [8,14,24,40]
+const SCRATCH_COLUMNS := 40
+const SCRATCH_ROWS := 22
+const SCRATCH_REQUIRED := .38
+const SCRATCH_BRUSH := 2.0
+const ASSISTANCE_NAMES := ["自行解石", "護石符", "催靈術", "天眼鑑石"]
+const ASSISTANCE_COST := [0,100,100,250]
+const PROTECTION_RISK_SCALE := .75
+const PROTECTION_KEEP_CHANCE := .75
+const GREED_RARE_MULTIPLIER := 2.5
+const GREED_EXTRA_RISK := .12
+const PITY_COST := [20,20,50,100,200]
+const PILL_NAMES := ["凝元丹","固脈丹","護心丹","金髓丹","天元丹"]
+const RECIPES := [[3,1,0,0,0],[1,2,1,0,0],[2,0,2,0,0],[2,2,0,1,0],[2,0,2,0,1]]
+const RECIPE_COST := [120,150,180,250,300]
+const FIRE_NAMES := ["文火","武火","猛火","危險"]
+const HEAT_BOUNDS := [.25,.55,.80]
+const HEAT_SECONDS := 2.4
+const FIRE_GAIN := [10.0,24.0,32.0,55.0]
+const FIRE_INSTABILITY := [.02,.07,.15,.28]
+const FIRE_FAILURE := [.002,.025,.07,.22]
+const FIRE_INSTABILITY_HAZARD := .08
+const REFINEMENT_REQUIRED := 100.0
+const MAX_FIRES := 5
+const FIRE_RESULT_SECONDS := .65
+const EXTRA_UPPER_CHANCE := .65
+const EXTRA_FAILURE_CHANCE := .20
+const PREPARATION_STATUS := ["丹緣未備，前路極險","略添保障","根基漸固","已有可靠基礎","護持周全","五丹齊備，靜候結丹"]
+const FUTURE_FULL_PREPARATION_FLOOR := [3,5]
+
+
+const ASSISTANCE_DETAILS := ["自行解石：不花靈石，憑石中造化。", "護石符：減輕磨損，深層石裂時有機會保住前層；並非必成。", "催靈術：引出稀有芯脈的機會增加，深入時也更容易石裂。", "天眼鑑石：開石前察看芯脈靈韻，只給線索，不保證完整取出。"]

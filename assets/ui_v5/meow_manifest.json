@@ -1,0 +1,69 @@
+[
+  {
+    "kind": "cultivation_array",
+    "job": "job_02ef8ea336c14efab15358a61c6908a2",
+    "generated_at": "2026-09-21T08:31:32.250541+00:00",
+    "prompt": "Production game VFX sprite on transparent background: one delicate circular xianxia cultivation magic array, thin flowing gold and ivory concentric sigils, airy broken luminous arcs, empty transparent center, clean circular top view, no text, no numbers, no scenery. Usable as rotating and deforming animated sprite, restrained brightness with clearly visible filaments, match supplied reference jade gold interface.",
+    "source": "outputs\\meow-ui-v5\\cultivation_array\\Production_game_VFX_sprite_on_transparent_background_one_delicate_circular_xianxia_cultivation_magic_array_thi_870db4ae\\ui_output.png",
+    "status": "rejected: output was a multi-asset atlas, replaced by array_single"
+  },
+  {
+    "kind": "material_icons",
+    "job": "job_6454f28d1bfc439bbb481a9e889ba16c",
+    "generated_at": "2026-09-21T08:31:42.661463+00:00",
+    "prompt": "Exactly TEN separate game inventory sprites in two rows of five, on transparent background with generous gutters. Top row: pale green jade marrow crystal, red mineral powder in a small bronze dish, purple quartz cluster, golden jade marrow stone, luminous ivory crystal heart. Bottom row: five distinct elegant jade medicine bottles green, white, blue, gold, violet. Original xianxia painted item art, fine gold accents, readable at small size, no text or numbers or frames or background.",
+    "source": "outputs\\meow-ui-v5\\material_icons\\Exactly_TEN_separate_game_inventory_sprites_in_two_rows_of_five_on_transparent_background_with_generous_gutter_1cb3e333\\ui_output.png"
+  },
+  {
+    "kind": "mine_tiles",
+    "request": {
+      "prompt": "Production xianxia mining game tile sheet. Exactly THREE square tiles in one horizontal row, each filling its square completely, equal sizes, no gaps. Left: cyan crystal cluster on dark teal rock floor. Middle: rare purple crystal cluster on dark teal rock floor. Right: dark violet malignant qi cloud with ominous crimson wisps on dark teal rock floor. Each has very thin antique gold edge matching a mining grid. NO ivory, white or parchment background; no nested cards, no labels, no text, no numbers, no outer UI. Solid opaque dark background in every square. Match reference crystal cavern game art.",
+      "time": "2026-09-21T09:04:24.035127+00:00"
+    },
+    "result": {
+      "status": "success",
+      "job_id": "job_6fd78f25181c46b596f40533f24d7258",
+      "outputs": [
+        {
+          "type": "media",
+          "path": "outputs\\meow-ui-v5\\mine_tiles\\Production_xianxia_mining_game_tile_sheet_Exactly_THREE_square_tiles_in_one_horizontal_row_each_filling_its_sq_46514ae0\\result_images_0_url.png",
+          "mime_type": "image/png"
+        }
+      ]
+    }
+  },
+  {
+    "kind": "moving_sprites",
+    "request": {
+      "prompt": "Exactly SIX isolated sprites in a 3-column 2-row grid with equal cells and generous transparent gutters. First five cells: five clearly visible horizontal flying swords pointing RIGHT, jade green, vermilion red, icy blue, violet, warm gold respectively, long clean blade silhouette and restrained matching energy trails. Sixth bottom-right cell: a compact ancient Chinese flying spirit boat in side view pointing RIGHT, jade wood hull gold trim ivory sails. Match elegant xianxia supplied reference. Solid readable silhouettes at 100px width, no text, no numbers, no background, no UI frames.",
+      "time": "2026-09-21T09:00:03.871206+00:00"
+    },
+    "result": {
+      "status": "success",
+      "job_id": "job_506af59c580d4cd38d0071e0ca1e5b63",
+      "outputs": [
+        {
+          "type": "media",
+          "path": "outputs\\meow-ui-v5\\moving_sprites\\Exactly_SIX_isolated_sprites_in_a_3-column_2-row_grid_with_equal_cells_and_generous_transparent_gutters_First_163b54d4\\ui_output.png",
+          "mime_type": "image/png"
+        }
+      ]
+    }
+  },
+  {
+    "kind": "array_single",
+    "source": "outputs\\meow-ui-v5\\array_single\\A_single_circular_Chinese_fantasy_cultivation_magic_array_viewed_directly_from_above_Delicate_concentric_ivory_a8540cf6\\result_images_0_url.png",
+    "result": {
+      "status": "success",
+      "job_id": "job_c81f33e8b79c4d8db4cb33add57eaf65",
+      "outputs": [
+        {
+          "type": "media",
+          "path": "outputs\\meow-ui-v5\\array_single\\A_single_circular_Chinese_fantasy_cultivation_magic_array_viewed_directly_from_above_Delicate_concentric_ivory_a8540cf6\\result_images_0_url.png",
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    "processing": "Pure black converted to transparency; single circular image visually verified before use."
+  }
+]

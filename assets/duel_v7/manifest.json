@@ -1,0 +1,40 @@
+{
+  "source": "User-supplied backgrounds and cards + Meowa generated VFX/scroll/special button/victory sword",
+  "jobs": {
+    "fx": "job_56564dba4bae4665b97010aec1d6c1aa",
+    "scroll": "job_92ff49eff7f44f98a48cc1e54cda4081",
+    "double": "job_709e0b17c1bc421fb36cb0824b5ed386",
+    "sword": "job_c48bbf9bad5d471aa2e39f0c6c54c376"
+  },
+  "screenshots": {
+    "junior-before": "小师妹 · 教学开始前",
+    "junior-lesson": "小师妹 · 教学牌局",
+    "junior-table": "小师妹 · 正式切磋",
+    "senior-before": "大师姐 · 教学开始前",
+    "senior-lesson": "大师姐 · 教学牌局",
+    "senior-table": "大师姐 · 正式切磋",
+    "sect-before": "宗门大比 · 入场确认",
+    "sect-table": "宗门大比 · 正式牌局",
+    "tianji-before": "天机大比 · 入场确认",
+    "tianji-table": "天机大比 · 正式牌局",
+    "scroll-states": "技能卷轴 · 已使用与未解锁",
+    "peek-eight": "真实顶牌 · 8",
+    "peek-consumed": "抽走 8 · 恢复藏锋",
+    "senior-lesson-real-eight": "大师姐实际教学 · 展露真实待抽 8",
+    "senior-lesson-eight-consumed": "大师姐实际教学 · 8 发入手牌，预览恢复卡背",
+    "probe": "神识探查 · 揭牌前法阵",
+    "probe-revealed": "探查满 3 秒 · 藏锋与剑势揭露",
+    "shield": "剑罡护体 · 自动救至 20",
+    "destiny": "天命一剑 · 孤注至 21",
+    "rewind": "逆转光阴 · 回溯演出",
+    "twenty-one": "21 点独立高光",
+    "wins-flight": "胜剑飞入",
+    "wins-swords": "胜剑归位与持续战况记录",
+    "six-cards": "六张牌 · 分区布局",
+    "button-hover": "按钮悬停 · 本体高亮",
+    "button-pressed": "按钮按压 · 本体缩放",
+    "button-outside": "按钮外侧 · 不悬停、不出牌",
+    "layout-1280": "1280 × 720 实际运行",
+    "layout-1600": "1600 × 900 实际运行"
+  }
+}

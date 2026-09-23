@@ -1,0 +1,366 @@
+{
+  "job_id": "job_4e73a6634cad4568a8f3e7fd0b1781eb",
+  "processing": "Alpha-bounds crop, button canvas registration and scaling only; no painted/code-created artwork.",
+  "assets": [
+    {
+      "file": "nav_normal.png",
+      "size": [
+        512,
+        240
+      ],
+      "source_crop": [
+        90,
+        144,
+        780,
+        480
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "sha256": "eeaaa615a33b2a3fbc28a6609d34d1a0ce129cbef191d51ffba7459ad183c3c8"
+    },
+    {
+      "file": "nav_hover.png",
+      "size": [
+        512,
+        240
+      ],
+      "source_crop": [
+        820,
+        144,
+        1504,
+        480
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "sha256": "a424eb43bf6c7833e78d3d7ccb026cb4c723194390de35c5984c05ddee062063"
+    },
+    {
+      "file": "nav_pressed.png",
+      "size": [
+        512,
+        240
+      ],
+      "source_crop": [
+        1556,
+        144,
+        2238,
+        480
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "sha256": "aa2e34ee6f0beb83348bea45a47938e12308b5f64e9260ba6a8ebb5506c8adb1"
+    },
+    {
+      "file": "nav_selected.png",
+      "size": [
+        512,
+        240
+      ],
+      "source_crop": [
+        2300,
+        144,
+        2986,
+        480
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "sha256": "22d29fc30f92e3c38c8dcd399c17f35fde8dfa0394383e8f1746ea2bf09788b1"
+    },
+    {
+      "file": "nav_disabled.png",
+      "size": [
+        512,
+        240
+      ],
+      "source_crop": [
+        90,
+        580,
+        780,
+        920
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "sha256": "2f7446b167c4272fe9457b4183ad5c605853290b44b34717c8b6c5a90e871db9"
+    },
+    {
+      "file": "primary_normal.png",
+      "size": [
+        640,
+        204
+      ],
+      "source_crop": [
+        828,
+        610,
+        1504,
+        900
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "sha256": "5fe172e6e93b42fb1099d9726006731dd8b806d363dd5636615c7a98a7f9a796"
+    },
+    {
+      "file": "primary_hover.png",
+      "size": [
+        640,
+        204
+      ],
+      "source_crop": [
+        1564,
+        610,
+        2240,
+        900
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "sha256": "9c9b110e556e744a14cf7f353a7e9233ef0ac7b3cd33f1b14f9db7ab65308b9d"
+    },
+    {
+      "file": "primary_pressed.png",
+      "size": [
+        640,
+        204
+      ],
+      "source_crop": [
+        2296,
+        610,
+        2990,
+        900
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "sha256": "7f91ab8dbc12021a90005b3dabd8f7ea16072f7c7596f0595456020ecfc66a55"
+    },
+    {
+      "file": "primary_selected.png",
+      "size": [
+        640,
+        204
+      ],
+      "source_crop": [
+        88,
+        1080,
+        782,
+        1280
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "sha256": "7c15be68c0cead977e529c83779a91a728f0f9df10d11b0fb864709f19a481b7"
+    },
+    {
+      "file": "primary_disabled.png",
+      "size": [
+        640,
+        204
+      ],
+      "source_crop": [
+        828,
+        1080,
+        1508,
+        1280
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "sha256": "f79d8d28c25c71372b59ebd919d909a2657c25f65eccf598f9d62f2979c44bb8"
+    },
+    {
+      "file": "hud.png",
+      "size": [
+        640,
+        86
+      ],
+      "source_crop": [
+        1558,
+        1088,
+        2242,
+        1250
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "sha256": "3e48423cb5c9abdc3b997433a0a865041aa4b5e0d462c46971d92c66e7f727db"
+    },
+    {
+      "file": "progress_track.png",
+      "size": [
+        640,
+        86
+      ],
+      "source_crop": [
+        2280,
+        1088,
+        2998,
+        1252
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "sha256": "b8520e12153ced32a9df3a0ae8fb2679ca2a00c45307b8a3962373715af44a1a"
+    },
+    {
+      "file": "progress_fill.png",
+      "size": [
+        640,
+        86
+      ],
+      "source_crop": [
+        86,
+        1470,
+        1050,
+        1628
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "sha256": "52c7fd7bf39f92f722889c7ff50d2e95ecd27b8f7285e79da1d64b1c1095e3ec"
+    },
+    {
+      "file": "book.png",
+      "size": [
+        360,
+        380
+      ],
+      "source_crop": [
+        1150,
+        1348,
+        1554,
+        1770
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "sha256": "6472f03f5a1e79be5d9272fa20fbeda3cb32409fdafd841eab178918df77fb85"
+    },
+    {
+      "file": "small_normal.png",
+      "size": [
+        384,
+        128
+      ],
+      "source_crop": [
+        1688,
+        1470,
+        2180,
+        1644
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "sha256": "056eda925e4e23540e4041763e90e95e9cd179e3f75449c9faf4421397957145"
+    },
+    {
+      "file": "small_hover.png",
+      "size": [
+        384,
+        128
+      ],
+      "source_crop": [
+        2360,
+        1470,
+        2854,
+        1644
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "sha256": "9418299fa5ffd8eb7d221749200b83eb80e6fba3ad6bbb6273194a9740331d48"
+    },
+    {
+      "file": "small_pressed.png",
+      "size": [
+        384,
+        128
+      ],
+      "source_crop": [
+        130,
+        1920,
+        628,
+        2080
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "sha256": "44100a3d782223533f8936dbd128509328aeff6edd2a3a16164e634a73721136"
+    },
+    {
+      "file": "small_disabled.png",
+      "size": [
+        384,
+        128
+      ],
+      "source_crop": [
+        894,
+        1920,
+        1390,
+        2080
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "sha256": "e1d2d73f9f58e9b8243f364dc72cbc7e57549047a7c957db400fadc7d4403840"
+    },
+    {
+      "file": "icon_destiny.png",
+      "size": [
+        192,
+        192
+      ],
+      "source_crop": [
+        1780,
+        1780,
+        2160,
+        2164
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "sha256": "ba22431590e5856559225be9180fc4d4cba0e47f42b49a8038d82d077144d656"
+    },
+    {
+      "file": "icon_history.png",
+      "size": [
+        192,
+        192
+      ],
+      "source_crop": [
+        2460,
+        1786,
+        2780,
+        2168
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "sha256": "2617b03ace648014ce2103b9a5260fd37a490be2dc0d573fe232be089a307bbc"
+    }
+  ]
+}

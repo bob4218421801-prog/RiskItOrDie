@@ -1,0 +1,329 @@
+{
+  "job_id": "job_bd3133cf49d3469a889dcad84ea459ba",
+  "downloaded_at_utc": "2026-09-20T23:13:53.751231+00:00",
+  "processing": "Crop, uniform aspect-preserving downscale and transparent padding only. No artwork painted or synthesized locally.",
+  "assets": [
+    {
+      "file": "ui_nav_plate_default.png",
+      "size": [
+        512,
+        256
+      ],
+      "source_bbox": [
+        40,
+        210,
+        770,
+        567
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "transparent_pixels": 64100,
+      "soft_alpha_pixels": 6187,
+      "sha256": "237b5e650a7c0b9a98ed998c385fb5b6f66ba5188ec13085c80c074eb7c6d01d"
+    },
+    {
+      "file": "ui_nav_plate_hover.png",
+      "size": [
+        512,
+        256
+      ],
+      "source_bbox": [
+        800,
+        210,
+        1530,
+        567
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "transparent_pixels": 63341,
+      "soft_alpha_pixels": 6257,
+      "sha256": "4b1935122736f47070d4b41418d221306825bac9d75497c66ba41c5eb60fd953"
+    },
+    {
+      "file": "ui_nav_plate_selected.png",
+      "size": [
+        512,
+        256
+      ],
+      "source_bbox": [
+        1540,
+        205,
+        2310,
+        567
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "transparent_pixels": 67613,
+      "soft_alpha_pixels": 5638,
+      "sha256": "a9c42fe98875511ef980eeb2165318cbb9d8f082eea1cb71b8349daa36273453"
+    },
+    {
+      "file": "icon_cultivation.png",
+      "size": [
+        256,
+        256
+      ],
+      "source_bbox": [
+        2358,
+        153,
+        3048,
+        610
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "transparent_pixels": 46714,
+      "soft_alpha_pixels": 4983,
+      "sha256": "8099c14344f05f8a8c5c54e89fab8489c5e640b0d08865258a26a882d3296f64"
+    },
+    {
+      "file": "icon_sect.png",
+      "size": [
+        256,
+        256
+      ],
+      "source_bbox": [
+        30,
+        660,
+        777,
+        1220
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "transparent_pixels": 39184,
+      "soft_alpha_pixels": 5244,
+      "sha256": "4071e0ccc4b64da23e382dc178dd7d523497bfcba24c084b278033216c185cc3",
+      "edit_job_id": "job_2c8c42603a6643efbd7a6dc53dcd4403",
+      "edit_prompt": "Remove all writing from gate signs; preserve architecture and alpha"
+    },
+    {
+      "file": "icon_opportunity.png",
+      "size": [
+        256,
+        256
+      ],
+      "source_bbox": [
+        797,
+        638,
+        1496,
+        1210
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "transparent_pixels": 33291,
+      "soft_alpha_pixels": 5656,
+      "sha256": "835f689235a6ecdeb1b9c4026af85d5b19a423be38314fd3e9370ce944fd2c25"
+    },
+    {
+      "file": "icon_cave.png",
+      "size": [
+        256,
+        256
+      ],
+      "source_bbox": [
+        1538,
+        638,
+        2315,
+        1222
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "transparent_pixels": 37283,
+      "soft_alpha_pixels": 2825,
+      "sha256": "cd68c04a313e2cb4e01fa696580f56234429af7920d09585eed8a9b31ee6f69a"
+    },
+    {
+      "file": "icon_duel.png",
+      "size": [
+        256,
+        256
+      ],
+      "source_bbox": [
+        2406,
+        675,
+        2948,
+        1223
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "transparent_pixels": 43258,
+      "soft_alpha_pixels": 7265,
+      "sha256": "c0d54c85636fd3e5b59a5535070c71070f2e504a4eeacb322e750e6ae50a70c9"
+    },
+    {
+      "file": "icon_inventory.png",
+      "size": [
+        256,
+        256
+      ],
+      "source_bbox": [
+        48,
+        1283,
+        579,
+        1797
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "transparent_pixels": 33449,
+      "soft_alpha_pixels": 5715,
+      "sha256": "c738e8efa48aec8828ae3c882a53449ea5d707df9bab632d312f42395cf86912"
+    },
+    {
+      "file": "ui_panel_fatebook.png",
+      "size": [
+        384,
+        560
+      ],
+      "source_bbox": [
+        692,
+        1235,
+        1115,
+        1862
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "transparent_pixels": 64393,
+      "soft_alpha_pixels": 14148,
+      "sha256": "fcb1d94889210cd3ff1cbae123b08826ef3688b60ed7b5396515c8225dcb9a1f"
+    },
+    {
+      "file": "ui_primary_button.png",
+      "size": [
+        640,
+        240
+      ],
+      "source_bbox": [
+        1138,
+        1428,
+        1888,
+        1739
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "transparent_pixels": 80298,
+      "soft_alpha_pixels": 6762,
+      "sha256": "a87126c7cf3934dbcf6d3a6a9429bf06827fe3a8fc0429b2f877b83524dac64b"
+    },
+    {
+      "file": "ui_dialogue_panel.png",
+      "size": [
+        1280,
+        608
+      ],
+      "source_bbox": [
+        1931,
+        1302,
+        3036,
+        1828
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "transparent_pixels": 354458,
+      "soft_alpha_pixels": 19024,
+      "sha256": "f78517e0ce8aa42cd5bede2aa513aa0354136a00d5deaace5b774fbcd76ffacc"
+    },
+    {
+      "file": "ui_dialogue_nameplate.png",
+      "size": [
+        512,
+        256
+      ],
+      "source_bbox": [
+        54,
+        1923,
+        599,
+        2161
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "transparent_pixels": 79412,
+      "soft_alpha_pixels": 7010,
+      "sha256": "4a75d2cc66760c09a52c6e2cd92f4d83ab0c56f1ea6fb70c0c4887b4f7e71835"
+    },
+    {
+      "file": "ui_slider_track.png",
+      "size": [
+        768,
+        160
+      ],
+      "source_bbox": [
+        663,
+        1957,
+        1659,
+        2146
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "transparent_pixels": 72659,
+      "soft_alpha_pixels": 8417,
+      "sha256": "156e17738c35354c986c904923ee3a5e63fae488856431ed74e2f6898c167163"
+    },
+    {
+      "file": "ui_slider_fill.png",
+      "size": [
+        640,
+        112
+      ],
+      "source_bbox": [
+        1748,
+        1990,
+        2495,
+        2120
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "transparent_pixels": 36769,
+      "soft_alpha_pixels": 6734,
+      "sha256": "1e3dfea64879816010750e8ac1bceec11fba7c7c1b85423e5521ed550e293564"
+    },
+    {
+      "file": "ui_slider_handle.png",
+      "size": [
+        96,
+        96
+      ],
+      "source_bbox": [
+        2601,
+        1898,
+        2960,
+        2209
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "transparent_pixels": 6426,
+      "soft_alpha_pixels": 679,
+      "sha256": "fb21eede02d0532a22ca1e4c41bd05f4b668f98efedfa65b28895ef538d64de5"
+    }
+  ]
+}

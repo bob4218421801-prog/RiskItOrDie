@@ -1,0 +1,11 @@
+{
+  "status": "success",
+  "job_id": "job_2c8c42603a6643efbd7a6dc53dcd4403",
+  "outputs": [
+    {
+      "type": "media",
+      "path": "outputs\\meow-test-v2-gate-clean\\Remove_every_tiny_letter_Chinese_character_and_writing_mark_from_the_gate_signboards_Replace_only_those_markin_6c8f8031\\edited.png",
+      "mime_type": "image/png"
+    }
+  ]
+}

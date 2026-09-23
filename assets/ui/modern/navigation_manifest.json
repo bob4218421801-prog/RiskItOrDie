@@ -1,0 +1,86 @@
+{
+  "source_job": "job_7ab1744de46c446cbae45255a7cb5680",
+  "display": "Navigation icons fit 66 logical pixels maximum; labels and state skins rendered independently.",
+  "assets": [
+    {
+      "file": "nav_calendar.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "transparent_pixels": 38805,
+      "opaque_pixels": 25707
+    },
+    {
+      "file": "nav_cave.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "transparent_pixels": 25379,
+      "opaque_pixels": 38522
+    },
+    {
+      "file": "nav_cultivation.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "transparent_pixels": 36870,
+      "opaque_pixels": 26055
+    },
+    {
+      "file": "nav_duel.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "transparent_pixels": 48694,
+      "opaque_pixels": 14411
+    },
+    {
+      "file": "nav_inventory.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "transparent_pixels": 29038,
+      "opaque_pixels": 35094
+    },
+    {
+      "file": "nav_opportunity.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "transparent_pixels": 26304,
+      "opaque_pixels": 37814
+    },
+    {
+      "file": "nav_sect.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "transparent_pixels": 35232,
+      "opaque_pixels": 28026
+    },
+    {
+      "file": "nav_shop.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "transparent_pixels": 32709,
+      "opaque_pixels": 30465
+    }
+  ]
+}

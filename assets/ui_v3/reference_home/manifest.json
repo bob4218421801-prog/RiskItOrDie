@@ -1,0 +1,533 @@
+{
+  "processing": "Meowa PNG source crops and uniform resizing only; no locally painted art. Components remain separate files.",
+  "assets": [
+    {
+      "file": "nav_arch.png",
+      "batch": "structure",
+      "job_id": "job_2088d34ff15d4eea854b0d2267691a4b",
+      "source_crop": [
+        64,
+        120,
+        646,
+        2154
+      ],
+      "size": [
+        553,
+        2001
+      ],
+      "sha256": "7cec6df3ceea2b4d7df492c23332317b8070980e87b4d3a34b1fa1a2b66afd7c"
+    },
+    {
+      "file": "destiny_scroll.png",
+      "batch": "structure",
+      "job_id": "job_2088d34ff15d4eea854b0d2267691a4b",
+      "source_crop": [
+        678,
+        398,
+        1860,
+        1850
+      ],
+      "size": [
+        1168,
+        1413
+      ],
+      "sha256": "b3983b9fa65838e3be42eb51ab2f237937b4c0298cc9f98161dbcb4404efd705"
+    },
+    {
+      "file": "top_bar.png",
+      "batch": "structure",
+      "job_id": "job_2088d34ff15d4eea854b0d2267691a4b",
+      "source_crop": [
+        1864,
+        392,
+        3020,
+        624
+      ],
+      "size": [
+        1136,
+        212
+      ],
+      "sha256": "bc0ed6f63ed1ac5e54c439db56c56820ccb7425ecec69607a4e67fe2ee7c7e94"
+    },
+    {
+      "file": "top_left.png",
+      "derived_from": "top_bar.png",
+      "source_crop": [
+        0,
+        0,
+        460,
+        212
+      ],
+      "size": [
+        252,
+        116
+      ],
+      "processing": "crop then uniform resize"
+    },
+    {
+      "file": "top_crest.png",
+      "derived_from": "top_bar.png",
+      "source_crop": [
+        460,
+        0,
+        721,
+        212
+      ],
+      "size": [
+        143,
+        116
+      ],
+      "processing": "crop then uniform resize"
+    },
+    {
+      "file": "top_right.png",
+      "derived_from": "top_bar.png",
+      "source_crop": [
+        721,
+        0,
+        1136,
+        212
+      ],
+      "size": [
+        227,
+        116
+      ],
+      "processing": "crop then uniform resize"
+    },
+    {
+      "file": "nav_normal.png",
+      "batch": "buttons",
+      "job_id": "job_22c68c0c50cc4d8da19a55574e6c7e2b",
+      "source_crop": [
+        50,
+        220,
+        1004,
+        536
+      ],
+      "size": [
+        512,
+        160
+      ],
+      "sha256": "4c3f1c94100020e1747d2d24113e209ccf83143f39bf5261b4cb9b015e445539"
+    },
+    {
+      "file": "nav_hover.png",
+      "batch": "buttons",
+      "job_id": "job_22c68c0c50cc4d8da19a55574e6c7e2b",
+      "source_crop": [
+        1080,
+        220,
+        1984,
+        536
+      ],
+      "size": [
+        512,
+        160
+      ],
+      "sha256": "f7535e8084e757ad1d326fff7fc21d1d2edc70784f3595b0e8ea1d87cf893008"
+    },
+    {
+      "file": "nav_selected.png",
+      "batch": "buttons",
+      "job_id": "job_22c68c0c50cc4d8da19a55574e6c7e2b",
+      "source_crop": [
+        2020,
+        220,
+        3036,
+        536
+      ],
+      "size": [
+        512,
+        160
+      ],
+      "sha256": "557f81d0eda23f73462d5e453a894128596acc9a34442b0c98f4cd88e05ccf9e"
+    },
+    {
+      "file": "nav_pressed.png",
+      "batch": "buttons",
+      "job_id": "job_22c68c0c50cc4d8da19a55574e6c7e2b",
+      "source_crop": [
+        52,
+        714,
+        992,
+        1024
+      ],
+      "size": [
+        512,
+        160
+      ],
+      "sha256": "84beda293c7f24422b2f62b0b38f775790fdd4440e988ad145b32958a52c5d1b"
+    },
+    {
+      "file": "nav_disabled.png",
+      "batch": "buttons",
+      "job_id": "job_22c68c0c50cc4d8da19a55574e6c7e2b",
+      "source_crop": [
+        1024,
+        706,
+        1848,
+        1024
+      ],
+      "size": [
+        512,
+        160
+      ],
+      "sha256": "48ab56ad1fd58cdd3c4064908b2023e21d484a1866ab11b919e26af4c4caff25"
+    },
+    {
+      "file": "small_normal.png",
+      "batch": "buttons",
+      "job_id": "job_22c68c0c50cc4d8da19a55574e6c7e2b",
+      "source_crop": [
+        160,
+        1806,
+        954,
+        2098
+      ],
+      "size": [
+        512,
+        160
+      ],
+      "sha256": "e8fd4c32ae87ada24b6cb8a0b93c944fcef480137971f5bcd28158e94573e285"
+    },
+    {
+      "file": "small_hover.png",
+      "batch": "buttons",
+      "job_id": "job_22c68c0c50cc4d8da19a55574e6c7e2b",
+      "source_crop": [
+        1112,
+        1806,
+        1976,
+        2098
+      ],
+      "size": [
+        512,
+        160
+      ],
+      "sha256": "0151ced36d009b20168d2d49407a4ebab355ee202ac28942013f87ff7f590632"
+    },
+    {
+      "file": "small_pressed.png",
+      "batch": "buttons",
+      "job_id": "job_22c68c0c50cc4d8da19a55574e6c7e2b",
+      "source_crop": [
+        2088,
+        1806,
+        2906,
+        2098
+      ],
+      "size": [
+        512,
+        160
+      ],
+      "sha256": "9d7176caf4d0a72061c13c9010fc86318efedc7a15540fe5723793af5042083a"
+    },
+    {
+      "file": "small_disabled.png",
+      "derived_from": "small_normal.png",
+      "processing": "identical art; runtime dimming"
+    },
+    {
+      "file": "icon_cultivation.png",
+      "batch": "icons",
+      "job_id": "job_c6a3932f442a4d2eadc1cfedc8c84a3f",
+      "source_crop": [
+        28,
+        40,
+        750,
+        760
+      ],
+      "size": [
+        192,
+        192
+      ],
+      "sha256": "e57099dc4954d2e225248bb469b19263b11462e6eb633c04512379da5f5701dd"
+    },
+    {
+      "file": "icon_sect.png",
+      "batch": "icons",
+      "job_id": "job_c6a3932f442a4d2eadc1cfedc8c84a3f",
+      "source_crop": [
+        796,
+        40,
+        1518,
+        760
+      ],
+      "size": [
+        192,
+        192
+      ],
+      "sha256": "f58cd7ad725245c65e997e27add3a1ae5e16fd57ecef582f42d07a1dbca8f273"
+    },
+    {
+      "file": "icon_opportunity.png",
+      "batch": "icons",
+      "job_id": "job_c6a3932f442a4d2eadc1cfedc8c84a3f",
+      "source_crop": [
+        1564,
+        40,
+        2286,
+        760
+      ],
+      "size": [
+        192,
+        192
+      ],
+      "sha256": "965af316da6ba18ca34d93121451b124ac9cb4a9624ae77d690a5e795498fa1d"
+    },
+    {
+      "file": "icon_cave.png",
+      "batch": "icons",
+      "job_id": "job_c6a3932f442a4d2eadc1cfedc8c84a3f",
+      "source_crop": [
+        2332,
+        40,
+        3054,
+        760
+      ],
+      "size": [
+        192,
+        192
+      ],
+      "sha256": "309a93552e24d5167d1c6c36ce68c79647443d2e58e8f8f7df28c09f9a96ce54"
+    },
+    {
+      "file": "icon_duel.png",
+      "batch": "icons",
+      "job_id": "job_c6a3932f442a4d2eadc1cfedc8c84a3f",
+      "source_crop": [
+        28,
+        808,
+        750,
+        1528
+      ],
+      "size": [
+        192,
+        192
+      ],
+      "sha256": "95dd34312323a61369eecd0b2fbfeb7530bf164e87ef8fabe9787e7fc5895ea5"
+    },
+    {
+      "file": "icon_destiny.png",
+      "batch": "icons",
+      "job_id": "job_c6a3932f442a4d2eadc1cfedc8c84a3f",
+      "source_crop": [
+        796,
+        808,
+        1518,
+        1528
+      ],
+      "size": [
+        192,
+        192
+      ],
+      "sha256": "15f3446b04d98e6e5c58bad87a1c9cd2410f169ec3cd9ba240a56e51254be4bc"
+    },
+    {
+      "file": "icon_shop.png",
+      "batch": "icons",
+      "job_id": "job_c6a3932f442a4d2eadc1cfedc8c84a3f",
+      "source_crop": [
+        1564,
+        808,
+        2286,
+        1528
+      ],
+      "size": [
+        192,
+        192
+      ],
+      "sha256": "779c0b17f5f77690450fb02ee31836a5e3b874cd5737d00ba868257aea92549c"
+    },
+    {
+      "file": "icon_inventory.png",
+      "batch": "icons",
+      "job_id": "job_c6a3932f442a4d2eadc1cfedc8c84a3f",
+      "source_crop": [
+        2332,
+        808,
+        3054,
+        1528
+      ],
+      "size": [
+        192,
+        192
+      ],
+      "sha256": "96997645ad3e96bb638b69af88f84d5d0c5f4993c222aaa77959a030db76a854"
+    },
+    {
+      "file": "icon_calendar.png",
+      "batch": "icons",
+      "job_id": "job_c6a3932f442a4d2eadc1cfedc8c84a3f",
+      "source_crop": [
+        28,
+        1576,
+        750,
+        2296
+      ],
+      "size": [
+        192,
+        192
+      ],
+      "sha256": "690d7ce1d0e7aefc6a0850d4cd4f4ee0cb1d1df11a2ed5ec39e0b1949d583eee"
+    },
+    {
+      "file": "icon_history.png",
+      "batch": "icons",
+      "job_id": "job_c6a3932f442a4d2eadc1cfedc8c84a3f",
+      "source_crop": [
+        796,
+        1576,
+        1518,
+        2296
+      ],
+      "size": [
+        192,
+        192
+      ],
+      "sha256": "ed1594134fdb62f60ca1b341a0a58a9aecc72234578e79076a1f7cda83475087"
+    },
+    {
+      "file": "icon_settings.png",
+      "batch": "icons",
+      "job_id": "job_c6a3932f442a4d2eadc1cfedc8c84a3f",
+      "source_crop": [
+        1564,
+        1576,
+        2286,
+        2296
+      ],
+      "size": [
+        192,
+        192
+      ],
+      "sha256": "929bc4eceef3af59bffdf188a3b626998b2ac11254ac9d9ff96dbfcae3fe9e17"
+    },
+    {
+      "file": "icon_crystal.png",
+      "batch": "icons",
+      "job_id": "job_c6a3932f442a4d2eadc1cfedc8c84a3f",
+      "source_crop": [
+        2332,
+        1576,
+        3054,
+        2296
+      ],
+      "size": [
+        192,
+        192
+      ],
+      "sha256": "bd086df9a0d8ce02940cbce30513ea8424dc05abbb557ef0fdd363ad3d118ab5"
+    },
+    {
+      "file": "floor_ring.png",
+      "batch": "aura",
+      "job_id": "job_3278e11e13dd4246a2faf6ef497501c5",
+      "source_crop": [
+        23,
+        917,
+        1283,
+        1337
+      ],
+      "size": [
+        1210,
+        358
+      ],
+      "sha256": "53a265d6d3ef3499521db6fe945ee90a2911aa1826ebea5ba4894c96596eb9a3"
+    },
+    {
+      "file": "orbit_halo.png",
+      "batch": "aura",
+      "job_id": "job_3278e11e13dd4246a2faf6ef497501c5",
+      "source_crop": [
+        1318,
+        544,
+        2263,
+        1386
+      ],
+      "size": [
+        866,
+        795
+      ],
+      "sha256": "d883e49df42c88b685cb440f88b286f41891ce97b23408e31c12ae2fe0790fa3"
+    },
+    {
+      "file": "gain_plaque.png",
+      "batch": "aura",
+      "job_id": "job_3278e11e13dd4246a2faf6ef497501c5",
+      "source_crop": [
+        2308,
+        768,
+        3542,
+        1314
+      ],
+      "size": [
+        1182,
+        484
+      ],
+      "sha256": "62a1ec12747bdc5183cb07c32a1e6d0ce564ad17fd7d222c3aac5b40809f8ff7"
+    },
+    {
+      "file": "background.png",
+      "batch": "background",
+      "job_id": "job_fa80a6bd86ed4b2ab232d45948dd6b02",
+      "size": [
+        3584,
+        2016
+      ]
+    },
+    {
+      "file": "primary_normal.png",
+      "job_id": "job_f1e929d677bd42e5b9dfbcd82402acd9",
+      "source_crop": [
+        420,
+        159,
+        3162,
+        632
+      ],
+      "size": [
+        558,
+        123
+      ],
+      "processing": "alpha crop, uniform reduction and centered transparent canvas",
+      "sha256": "2ba8b6183327927c92e8e5e585a7faf6b16f9aa87191156a57a5128e003fb619"
+    },
+    {
+      "file": "primary_hover.png",
+      "job_id": "job_f1e929d677bd42e5b9dfbcd82402acd9",
+      "source_crop": [
+        420,
+        730,
+        3162,
+        1213
+      ],
+      "size": [
+        558,
+        123
+      ],
+      "processing": "alpha crop, uniform reduction and centered transparent canvas",
+      "sha256": "6d3a0fb32a5de989256772cdf10a92a38117898602333d2a8e17a13a9cccd2cd"
+    },
+    {
+      "file": "primary_pressed.png",
+      "job_id": "job_f1e929d677bd42e5b9dfbcd82402acd9",
+      "source_crop": [
+        420,
+        1311,
+        3162,
+        1799
+      ],
+      "size": [
+        558,
+        123
+      ],
+      "processing": "alpha crop, uniform reduction and centered transparent canvas",
+      "sha256": "25ec2692fa6cbda86dfabe5fabbd53b78de38d3ecf1431d6e81b0fd123aa3ab1"
+    },
+    {
+      "file": "primary_disabled.png",
+      "derived_from": "primary_pressed.png",
+      "processing": "identical PNG, runtime dimmed text"
+    }
+  ]
+}

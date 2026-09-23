@@ -1,0 +1,722 @@
+[
+  {
+    "event": "cultivation_charge",
+    "category": "cultivation",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: steady gathering spiritual air and jade resonance. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 4.0,
+    "loop": true,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "cultivation_good_release",
+    "category": "cultivation",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: gentle clean qi settling into jade. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "cultivation_risky_release",
+    "category": "cultivation",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: sharp spiritual release with weighty jade resonance. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "cultivation_extreme_release",
+    "category": "cultivation",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: powerful compressed qi breaking free. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "cultivation_failure",
+    "category": "cultivation",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: violent internal qi rupture followed by dry decay. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "cultivation_rebirth",
+    "category": "cultivation",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: sudden reverse suction and radiant spiritual restoration. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "realm_breakthrough",
+    "category": "cultivation",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: resonant refined spiritual realm breakthrough. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "foundation_fall",
+    "category": "foundation",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: massive stone platform dropping through air. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "foundation_impact",
+    "category": "foundation",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: heavy stone block impact with spiritual resonance. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "foundation_crack",
+    "category": "foundation",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: slow stone cracking and strain. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "foundation_collapse",
+    "category": "foundation",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: stone platform collapse and dry debris. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "foundation_complete",
+    "category": "foundation",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: golden spiritual ring completing with jade resonance. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "foundation_rebirth",
+    "category": "foundation",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: reversed stone debris reconstructing a spiritual platform. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "boat_launch",
+    "category": "boat",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: wooden spiritual boat launching into wind. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "boat_flight_loop",
+    "category": "boat",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: steady restrained rushing air around a wooden spiritual boat. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 4.0,
+    "loop": true,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "boat_danger",
+    "category": "boat",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: strained wooden hull and threatening rushing qi. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "boat_cashout",
+    "category": "boat",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: boat returning safely with a restrained jade payoff. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "boat_crash",
+    "category": "boat",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: wooden hull snapping in a powerful spiritual air burst. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "sword_race_start",
+    "category": "race",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: five light metal swords launching. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "sword_race_flyby",
+    "category": "race",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: fast sharp sword passing nearby. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 1.0,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "sword_race_overtake",
+    "category": "race",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: two fine metal swords overtaking in air. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "sword_race_finish",
+    "category": "race",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: bright sword finish crossing. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "sword_race_win",
+    "category": "race",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: restrained victorious metal and jade resonance. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "sword_race_lose",
+    "category": "race",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: brief muted blade ring fading. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "mines_reveal",
+    "category": "mining",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: dry stone opening softly. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 1.0,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "mines_ordinary",
+    "category": "mining",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: small crystal discovery chime. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 1.0,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "mines_rare",
+    "category": "mining",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: rare resonant crystalline discovery. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "mines_danger",
+    "category": "mining",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: dark mineral pressure groan. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "mines_failure",
+    "category": "mining",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: rock collapse with dust and malignant spiritual burst. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "mines_cashout",
+    "category": "mining",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: crystals collected into a pouch. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "stone_scratch_loop",
+    "category": "stone",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: dry abrasive grinding on rough stone with dust. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 4.0,
+    "loop": true,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "stone_reveal",
+    "category": "stone",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: thin stone layer peeling with jade glint. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "stone_crack",
+    "category": "stone",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: brittle rock crack spreading. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "stone_rare_reveal",
+    "category": "stone",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: rare spiritual jade core shimmering. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "stone_shatter",
+    "category": "stone",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: stone core shattering into dry fragments. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "stone_protection",
+    "category": "stone",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: protective talisman intercepting stone fracture. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "stone_collect",
+    "category": "stone",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: solid jade material collected. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 1.0,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "alchemy_low_loop",
+    "category": "alchemy",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: quiet low furnace flame. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 4.0,
+    "loop": true,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "alchemy_medium_loop",
+    "category": "alchemy",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: steady furnace fire and subtle air movement. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 4.0,
+    "loop": true,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "alchemy_high_loop",
+    "category": "alchemy",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: strong hot furnace flames under pressure. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 4.0,
+    "loop": true,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "alchemy_unstable",
+    "category": "alchemy",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: furnace metal straining and fire pressure rising. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "alchemy_open",
+    "category": "alchemy",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: ceramic lid opening and pill settling. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "alchemy_upper",
+    "category": "alchemy",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: refined pill forming with fine jade resonance. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "furnace_explosion",
+    "category": "alchemy",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: bronze furnace explosion with flame blast and smoke. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "duel_arrival",
+    "category": "duel",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: single solemn sword unsheathing. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "duel_draw",
+    "category": "duel",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: short precise blade strike in air. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 1.0,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "duel_pressure",
+    "category": "duel",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: strained sword resonance approaching instability. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "duel_round_win",
+    "category": "duel",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: clean sword clash resolving positively. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "duel_round_lose",
+    "category": "duel",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: blade deflected with muted ring. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "duel_bust",
+    "category": "duel",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: uncontrolled sword qi scattering violently. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "duel_match_win",
+    "category": "duel",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: restrained victorious sword and jade resonance. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "duel_match_lose",
+    "category": "duel",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: sword returning to scabbard in defeat. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "duel_treasure",
+    "category": "duel",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: rare jade treasure appearing with subtle resonance. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "ui_confirm",
+    "category": "ui",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: tiny tactile jade click. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 1.0,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "ui_cancel",
+    "category": "ui",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: soft muted jade tap. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 1.0,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "feature_unlock",
+    "category": "ui",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: clear spiritual seal opening. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "opportunity_notice",
+    "category": "ui",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: soft jade notification. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 2.5,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "ticket_obtained",
+    "category": "ui",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: tiny paper talisman and jade tick. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 1.0,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "shop_purchase",
+    "category": "ui",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: restrained pouch and jade transaction. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 1.0,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "event": "result_confirm",
+    "category": "ui",
+    "prompt": "Original restrained Chinese cultivation fantasy game sound effect: small settled jade click. Natural stone, jade, metal, spiritual air textures. No speech, no voice, no music, no melody, no casino, no cartoon. Clean usable game audio.",
+    "duration": 1.0,
+    "loop": false,
+    "candidates": [
+      "A",
+      "B",
+      "C"
+    ]
+  }
+]

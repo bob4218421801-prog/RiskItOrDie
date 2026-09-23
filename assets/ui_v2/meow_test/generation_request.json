@@ -1,0 +1,11 @@
+{
+  "requested_at_utc": "2026-09-20T23:12:26.321466+00:00",
+  "prompt": "Create an original production UI component atlas for an elegant Chinese immortal-cultivation PC game. Sixteen separate objects in a strict 4-column, 4-row grid, read left to right. Row 1: compact jade-and-dark-wood navigation plaque default, same plaque hover with restrained jade highlight, same plaque selected with a fine pale-gold edge, small meditation cushion and gathering-spirit ring icon. Row 2: sect mountain gate icon, mysterious cloud portal icon, stone cave entrance icon, crossed swords icon. Row 3: embroidered storage pouch icon, compact vertical stitched jade fate-book panel with a quiet blank dark interior, wide jade ritual activation button, wide light-jade dialogue panel with a large calm blank interior. Row 4: small character name plaque, horizontal jade betting slider track, separate matching slider fill strip, separate matching jade slider thumb. All are isolated front-facing game assets, transparent background, generous empty gutters, no overlapping pieces. Refined jade, restrained wood, mist-blue, warm ivory accents and thin pale-gold details; soft dimensional hand-painted game art, clean edges, readable silhouettes, sparse cloud engravings. Navigation plaques roughly 3:2, fate-book 3:4, primary button 4:1, dialogue panel 5:1, nameplate 3:1, slider track 8:1. Keep corners and borders suited to nine-slice scaling. No text, no letters, no Chinese characters, no numbers, no labels, no scene, no screenshot, no dashboard, no parchment texture, no heavy ink wash, no neon.",
+  "command": "ui-gen-run",
+  "quality": "detailed",
+  "resolution": "2K",
+  "aspect_ratio": "4:3",
+  "generation_model": "image-2",
+  "remove_bg_method": "advanced",
+  "status": "submitted"
+}

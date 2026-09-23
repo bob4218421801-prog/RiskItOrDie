@@ -1,0 +1,13 @@
+{
+  "source": "outputs\\meow-ui-v6\\cursor\\Exactly_four_small_game_cursor_sprites_in_a_single_row_with_equal_spacing_Same_slender_jade_flying_sword_point_2fd2be6f\\ui_output.png",
+  "states": [
+    "default",
+    "hover",
+    "pressed",
+    "disabled"
+  ],
+  "dimensions": [
+    48,
+    48
+  ]
+}

@@ -1,0 +1,17 @@
+# Godot editor cache and generated files
+.godot/
+.import/
+export.cfg
+export_credentials.cfg
+
+# Local secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.pfx
+*.p12
+
+# Local OS files
+.DS_Store
+Thumbs.db

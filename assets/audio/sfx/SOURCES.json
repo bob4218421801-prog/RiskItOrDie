@@ -1,0 +1,34 @@
+[
+  {
+    "path": "res://assets/audio/sfx/sfx_boat_cashout.mp3",
+    "sha256": "5c438cf500b4917d88cdc2717b9c42d2e6c2f384947f03ebb107f521b93e747d"
+  },
+  {
+    "path": "res://assets/audio/sfx/sfx_cultivation_charge.mp3",
+    "sha256": "11e9ea2c60ceefe982fec444da4be068348c14eeb08610bf6fb0ca0b26b90438"
+  },
+  {
+    "path": "res://assets/audio/sfx/sfx_cultivation_extreme_release.mp3",
+    "sha256": "90fd7b507192ad478965f97dd0883b2895946a01957f7949ac988f1ce61c8134"
+  },
+  {
+    "path": "res://assets/audio/sfx/sfx_cultivation_failure.mp3",
+    "sha256": "195a093ff06d214d043ecc669a3961cc284400c34a4ab5f44ccec0dd3b5850ae"
+  },
+  {
+    "path": "res://assets/audio/sfx/sfx_cultivation_good_release.mp3",
+    "sha256": "6d7189f5acf2052a7c2e83e838858e3eb181c7ab1dccdb7751fd8383e80c74d1"
+  },
+  {
+    "path": "res://assets/audio/sfx/sfx_cultivation_risky_release.mp3",
+    "sha256": "714c8edaf2feb6b9f0a22db424a88c120fa5aa488b1ed756a7dcbe06644ce8c1"
+  },
+  {
+    "path": "res://assets/audio/sfx/sfx_realm_breakthrough.mp3",
+    "sha256": "d22735dcfa03d6d8a8af3065d25cab04ef1268d0a1bdf0f182219b372d060291"
+  },
+  {
+    "path": "res://assets/audio/sfx/sfx_ui_confirm.mp3",
+    "sha256": "7907b7a9074df79daf2d7ea5adafe7e5e49ae98bed7b284547d57ff2a3ea8353"
+  }
+]
